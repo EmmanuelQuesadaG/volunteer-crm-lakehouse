@@ -1,0 +1,251 @@
+geography_id,country,region,capital_city,city,rural_urban
+1,Bolivia,South America,La Paz,Garretttown,Peri-urban
+2,Paraguay,South America,Asunción,New Jeffery,Urban
+3,Ecuador,South America,Quito,Feliciaside,Peri-urban
+4,Morocco,North Africa,Rabat,Susanfurt,Peri-urban
+5,Ghana,West Africa,Accra,New Austin,Peri-urban
+6,Guatemala,Central America,Guatemala City,South Aprilport,Urban
+7,Costa Rica,Central America,San José,Lake Theresachester,Peri-urban
+8,Senegal,West Africa,Dakar,Alexandershire,Urban
+9,Guatemala,Central America,Guatemala City,Ellisonfurt,Urban
+10,Guatemala,Central America,Guatemala City,Gonzalezville,Peri-urban
+11,Peru,South America,Lima,East Jerryberg,Peri-urban
+12,Paraguay,South America,Asunción,East Erinside,Urban
+13,Nepal,Asia,Kathmandu,Emilychester,Rural
+14,Costa Rica,Central America,San José,Markport,Rural
+15,Nepal,Asia,Kathmandu,Christopherchester,Rural
+16,Paraguay,South America,Asunción,Jonesborough,Rural
+17,Bolivia,South America,La Paz,Cooperchester,Peri-urban
+18,Guatemala,Central America,Guatemala City,North Tinachester,Peri-urban
+19,Nepal,Asia,Kathmandu,Port Robert,Urban
+20,Ecuador,South America,Quito,West Dorothy,Peri-urban
+21,Philippines,Asia,Manila,East Amanda,Rural
+22,Ghana,West Africa,Accra,North Deanna,Urban
+23,Uganda,East Africa,Kampala,Medinaville,Peri-urban
+24,Costa Rica,Central America,San José,South Michael,Rural
+25,Costa Rica,Central America,San José,Lake Amandaville,Rural
+26,Morocco,North Africa,Rabat,Hallhaven,Rural
+27,Ghana,West Africa,Accra,Lake Gregoryborough,Peri-urban
+28,Uganda,East Africa,Kampala,New Molly,Rural
+29,Uganda,East Africa,Kampala,South Mark,Rural
+30,Panama,Central America,Panama City,Jonathanport,Peri-urban
+31,Costa Rica,Central America,San José,South Devinville,Urban
+32,Ghana,West Africa,Accra,South Garyport,Rural
+33,Peru,South America,Lima,East Rebeccaland,Peri-urban
+34,Nicaragua,Central America,Managua,Timothyburgh,Urban
+35,Bolivia,South America,La Paz,Knightfurt,Urban
+36,Ecuador,South America,Quito,East Tarafurt,Rural
+37,Panama,Central America,Panama City,Cynthialand,Urban
+38,Paraguay,South America,Asunción,Port Matthew,Peri-urban
+39,Ecuador,South America,Quito,Christineview,Rural
+40,Philippines,Asia,Manila,Reedfort,Peri-urban
+41,Ghana,West Africa,Accra,South Gregoryhaven,Rural
+42,Honduras,Central America,Tegucigalpa,Dunnside,Peri-urban
+43,Nicaragua,Central America,Managua,Judyfort,Rural
+44,Panama,Central America,Panama City,East Ruthtown,Rural
+45,Uganda,East Africa,Kampala,Lake Sarahchester,Peri-urban
+46,Costa Rica,Central America,San José,Stephenshaven,Urban
+47,Peru,South America,Lima,Lynnmouth,Urban
+48,Uganda,East Africa,Kampala,West Audreyfurt,Rural
+49,Nepal,Asia,Kathmandu,South Lori,Urban
+50,Panama,Central America,Panama City,South Victor,Peri-urban
+51,Morocco,North Africa,Rabat,North Brianport,Peri-urban
+52,Tanzania,East Africa,Dodoma,North Annamouth,Rural
+53,Uganda,East Africa,Kampala,Lake Tracy,Rural
+54,Guatemala,Central America,Guatemala City,South Jessicaview,Peri-urban
+55,Uganda,East Africa,Kampala,North Alexandraborough,Urban
+56,Ecuador,South America,Quito,Loweport,Peri-urban
+57,Bolivia,South America,La Paz,Georgeview,Peri-urban
+58,Uganda,East Africa,Kampala,Bergerview,Urban
+59,Senegal,West Africa,Dakar,South Jenniferville,Urban
+60,Honduras,Central America,Tegucigalpa,North Michaelborough,Urban
+61,Morocco,North Africa,Rabat,Mendozaland,Rural
+62,Honduras,Central America,Tegucigalpa,Briggshaven,Peri-urban
+63,Ecuador,South America,Quito,West John,Urban
+64,Nicaragua,Central America,Managua,West Joeville,Rural
+65,Philippines,Asia,Manila,Port Kylieport,Peri-urban
+66,Senegal,West Africa,Dakar,Port Mary,Urban
+67,Uganda,East Africa,Kampala,Mezaburgh,Urban
+68,Ecuador,South America,Quito,Watsonberg,Peri-urban
+69,Nepal,Asia,Kathmandu,Jeremystad,Peri-urban
+70,Guatemala,Central America,Guatemala City,West Suzanne,Urban
+71,Panama,Central America,Panama City,Antoniotown,Urban
+72,Peru,South America,Lima,North Brian,Peri-urban
+73,Nicaragua,Central America,Managua,Lindachester,Urban
+74,Nepal,Asia,Kathmandu,Rachelville,Rural
+75,Ecuador,South America,Quito,Aprilfort,Urban
+76,Paraguay,South America,Asunción,Jamesbury,Urban
+77,Nicaragua,Central America,Managua,Aprilview,Rural
+78,Honduras,Central America,Tegucigalpa,Lake Peter,Peri-urban
+79,Ghana,West Africa,Accra,West Chasetown,Urban
+80,Uganda,East Africa,Kampala,Bellport,Urban
+81,Peru,South America,Lima,North Teresahaven,Urban
+82,Paraguay,South America,Asunción,North Carolside,Rural
+83,Peru,South America,Lima,Schultzmouth,Urban
+84,Costa Rica,Central America,San José,East Nicoleton,Peri-urban
+85,Paraguay,South America,Asunción,Andreachester,Peri-urban
+86,Nicaragua,Central America,Managua,Davisfort,Peri-urban
+87,Nepal,Asia,Kathmandu,Christopherhaven,Urban
+88,Peru,South America,Lima,West Jonathan,Rural
+89,Guatemala,Central America,Guatemala City,East Conniefurt,Urban
+90,Ecuador,South America,Quito,Lake Melissaland,Rural
+91,Morocco,North Africa,Rabat,Sydneytown,Rural
+92,Costa Rica,Central America,San José,New Patrickfurt,Rural
+93,Ghana,West Africa,Accra,North Candace,Rural
+94,Morocco,North Africa,Rabat,New Bobbyland,Peri-urban
+95,Philippines,Asia,Manila,Rachelberg,Rural
+96,Senegal,West Africa,Dakar,North Lisa,Urban
+97,Guatemala,Central America,Guatemala City,Edwardsmouth,Peri-urban
+98,Ghana,West Africa,Accra,Robertton,Peri-urban
+99,Panama,Central America,Panama City,Janiceton,Rural
+100,Morocco,North Africa,Rabat,Zimmermanmouth,Urban
+101,Ecuador,South America,Quito,Carlport,Peri-urban
+102,Nicaragua,Central America,Managua,West Brandon,Rural
+103,Bolivia,South America,La Paz,West Steven,Urban
+104,Ecuador,South America,Quito,Meganport,Peri-urban
+105,Cambodia,Asia,Phnom Penh,Jonathantown,Rural
+106,Senegal,West Africa,Dakar,Gregoryshire,Peri-urban
+107,Uganda,East Africa,Kampala,Port Steven,Rural
+108,Senegal,West Africa,Dakar,Barrettberg,Peri-urban
+109,Panama,Central America,Panama City,Port Julia,Rural
+110,Panama,Central America,Panama City,West Brian,Urban
+111,Ecuador,South America,Quito,New Andre,Urban
+112,Senegal,West Africa,Dakar,South Kristina,Urban
+113,Guatemala,Central America,Guatemala City,West John,Peri-urban
+114,Panama,Central America,Panama City,West Kimberlyfurt,Peri-urban
+115,Peru,South America,Lima,New James,Peri-urban
+116,Ecuador,South America,Quito,Franklinfort,Rural
+117,Ecuador,South America,Quito,Kristinaberg,Urban
+118,Panama,Central America,Panama City,West Kelli,Urban
+119,Uganda,East Africa,Kampala,Josephborough,Urban
+120,Nepal,Asia,Kathmandu,Bankstown,Urban
+121,Nepal,Asia,Kathmandu,North Ryan,Rural
+122,Honduras,Central America,Tegucigalpa,Jessicaland,Rural
+123,Ghana,West Africa,Accra,Heatherfurt,Urban
+124,Costa Rica,Central America,San José,Reedland,Peri-urban
+125,Senegal,West Africa,Dakar,North Mary,Peri-urban
+126,Paraguay,South America,Asunción,Meyersport,Rural
+127,Honduras,Central America,Tegucigalpa,New Beth,Peri-urban
+128,Bolivia,South America,La Paz,East Jamesburgh,Peri-urban
+129,Senegal,West Africa,Dakar,Carriemouth,Rural
+130,Morocco,North Africa,Rabat,Bakerfort,Peri-urban
+131,Uganda,East Africa,Kampala,Port Nicholas,Rural
+132,Honduras,Central America,Tegucigalpa,South Richard,Rural
+133,Peru,South America,Lima,Christineside,Peri-urban
+134,Philippines,Asia,Manila,New Sharon,Urban
+135,Nicaragua,Central America,Managua,Chelseaberg,Peri-urban
+136,Nicaragua,Central America,Managua,Port Kevin,Urban
+137,Costa Rica,Central America,San José,Derekburgh,Urban
+138,Panama,Central America,Panama City,West Saraview,Peri-urban
+139,Nicaragua,Central America,Managua,Josephburgh,Peri-urban
+140,Nepal,Asia,Kathmandu,Donaldland,Peri-urban
+141,Panama,Central America,Panama City,West Emilyborough,Urban
+142,Ghana,West Africa,Accra,Hubbardburgh,Rural
+143,Nepal,Asia,Kathmandu,North Donaldfort,Rural
+144,Peru,South America,Lima,Nicholasside,Peri-urban
+145,Nicaragua,Central America,Managua,Phillipsside,Urban
+146,Panama,Central America,Panama City,South Francishaven,Peri-urban
+147,Honduras,Central America,Tegucigalpa,West Dannyville,Peri-urban
+148,Guatemala,Central America,Guatemala City,Markmouth,Peri-urban
+149,Cambodia,Asia,Phnom Penh,Jamesborough,Urban
+150,Ecuador,South America,Quito,North Shane,Peri-urban
+151,Panama,Central America,Panama City,Stephanieburgh,Rural
+152,Nicaragua,Central America,Managua,Austinberg,Peri-urban
+153,Ecuador,South America,Quito,Rachaelburgh,Urban
+154,Honduras,Central America,Tegucigalpa,Kimtown,Urban
+155,Nepal,Asia,Kathmandu,New Terriview,Rural
+156,Nepal,Asia,Kathmandu,North Robert,Urban
+157,Philippines,Asia,Manila,North Amy,Rural
+158,Costa Rica,Central America,San José,West Rebeccaview,Urban
+159,Panama,Central America,Panama City,Ginafort,Peri-urban
+160,Cambodia,Asia,Phnom Penh,Hensleychester,Peri-urban
+161,Nepal,Asia,Kathmandu,West Saramouth,Urban
+162,Costa Rica,Central America,San José,Millertown,Urban
+163,Senegal,West Africa,Dakar,Samuelview,Urban
+164,Honduras,Central America,Tegucigalpa,Bateshaven,Urban
+165,Bolivia,South America,La Paz,Kevinchester,Rural
+166,Paraguay,South America,Asunción,North Rhonda,Urban
+167,Ghana,West Africa,Accra,Millerview,Rural
+168,Costa Rica,Central America,San José,Jonesside,Rural
+169,Costa Rica,Central America,San José,Rodriguezshire,Rural
+170,Tanzania,East Africa,Dodoma,Camposton,Peri-urban
+171,Cambodia,Asia,Phnom Penh,Port Angelaview,Rural
+172,Philippines,Asia,Manila,West Marcfurt,Peri-urban
+173,Guatemala,Central America,Guatemala City,Roberthaven,Rural
+174,Senegal,West Africa,Dakar,North Kerri,Peri-urban
+175,Uganda,East Africa,Kampala,New Donna,Rural
+176,Peru,South America,Lima,Port Joseph,Peri-urban
+177,Ghana,West Africa,Accra,East Davidmouth,Peri-urban
+178,Tanzania,East Africa,Dodoma,Edwardsland,Urban
+179,Tanzania,East Africa,Dodoma,Port Randall,Rural
+180,Ecuador,South America,Quito,Port Scottbury,Peri-urban
+181,Guatemala,Central America,Guatemala City,Lake Sarashire,Urban
+182,Costa Rica,Central America,San José,South Danielle,Peri-urban
+183,Bolivia,South America,La Paz,Bryanside,Urban
+184,Morocco,North Africa,Rabat,Fitzpatrickstad,Peri-urban
+185,Nepal,Asia,Kathmandu,New Troy,Peri-urban
+186,Uganda,East Africa,Kampala,Christinestad,Urban
+187,Honduras,Central America,Tegucigalpa,New Eric,Peri-urban
+188,Panama,Central America,Panama City,East Sabrinaborough,Rural
+189,Morocco,North Africa,Rabat,Oconnorstad,Peri-urban
+190,Cambodia,Asia,Phnom Penh,Lauramouth,Rural
+191,Guatemala,Central America,Guatemala City,Carolfort,Rural
+192,Ecuador,South America,Quito,Gonzalezport,Peri-urban
+193,Panama,Central America,Panama City,New Christopher,Urban
+194,Peru,South America,Lima,South Kristyland,Rural
+195,Guatemala,Central America,Guatemala City,Emilyfurt,Urban
+196,Nicaragua,Central America,Managua,West Jamesview,Rural
+197,Ecuador,South America,Quito,Lake Toddburgh,Urban
+198,Tanzania,East Africa,Dodoma,East Nicole,Rural
+199,Nicaragua,Central America,Managua,Peterstad,Peri-urban
+200,Senegal,West Africa,Dakar,Brianview,Rural
+201,Panama,Central America,Panama City,Vasquezberg,Rural
+202,Nicaragua,Central America,Managua,Adamfurt,Rural
+203,Peru,South America,Lima,Anthonyport,Urban
+204,Ecuador,South America,Quito,Adrianfort,Rural
+205,Guatemala,Central America,Guatemala City,New Amyshire,Peri-urban
+206,Bolivia,South America,La Paz,Port Ritabury,Peri-urban
+207,Honduras,Central America,Tegucigalpa,Katherinehaven,Peri-urban
+208,Tanzania,East Africa,Dodoma,Joshuaton,Peri-urban
+209,Nicaragua,Central America,Managua,Lake Cynthia,Peri-urban
+210,Morocco,North Africa,Rabat,New Davidberg,Rural
+211,Morocco,North Africa,Rabat,East Zachary,Rural
+212,Ecuador,South America,Quito,Whiteville,Peri-urban
+213,Honduras,Central America,Tegucigalpa,Murillobury,Peri-urban
+214,Philippines,Asia,Manila,Thomasville,Rural
+215,Tanzania,East Africa,Dodoma,New Kimberly,Peri-urban
+216,Costa Rica,Central America,San José,East Sherry,Urban
+217,Cambodia,Asia,Phnom Penh,Philiptown,Peri-urban
+218,Senegal,West Africa,Dakar,North Melissaborough,Peri-urban
+219,Philippines,Asia,Manila,North Brett,Urban
+220,Philippines,Asia,Manila,Darlenebury,Rural
+221,Guatemala,Central America,Guatemala City,East Anthonybury,Rural
+222,Costa Rica,Central America,San José,East Luis,Urban
+223,Panama,Central America,Panama City,New Connieton,Rural
+224,Paraguay,South America,Asunción,Christinefurt,Peri-urban
+225,Nicaragua,Central America,Managua,Lake Anthonychester,Rural
+226,Philippines,Asia,Manila,Port Marieside,Rural
+227,Nepal,Asia,Kathmandu,Campbellfurt,Rural
+228,Morocco,North Africa,Rabat,Washingtonborough,Rural
+229,Paraguay,South America,Asunción,South Victorville,Peri-urban
+230,Uganda,East Africa,Kampala,Jefferyview,Rural
+231,Ghana,West Africa,Accra,Jayport,Rural
+232,Peru,South America,Lima,East Paulamouth,Rural
+233,Nepal,Asia,Kathmandu,West Kathleen,Rural
+234,Cambodia,Asia,Phnom Penh,Loriview,Urban
+235,Honduras,Central America,Tegucigalpa,Johnnymouth,Rural
+236,Honduras,Central America,Tegucigalpa,West Jason,Peri-urban
+237,Paraguay,South America,Asunción,Christopherfurt,Peri-urban
+238,Senegal,West Africa,Dakar,Johnsonshire,Urban
+239,Paraguay,South America,Asunción,Kellychester,Urban
+240,Morocco,North Africa,Rabat,Davisbury,Peri-urban
+241,Philippines,Asia,Manila,Andradetown,Rural
+242,Tanzania,East Africa,Dodoma,Abigailstad,Urban
+243,Ghana,West Africa,Accra,Mooneychester,Urban
+244,Nicaragua,Central America,Managua,Jimenezmouth,Peri-urban
+245,Peru,South America,Lima,New Jacquelineshire,Urban
+246,Morocco,North Africa,Rabat,Karenton,Urban
+247,Honduras,Central America,Tegucigalpa,Parsonsport,Rural
+248,Nepal,Asia,Kathmandu,New Michaelfurt,Urban
+249,Nicaragua,Central America,Managua,Michaelchester,Peri-urban
+250,Cambodia,Asia,Phnom Penh,East Jacobstad,Peri-urban

@@ -1,0 +1,401 @@
+project_id,project_name,project_type,geography_id,organization_id,start_date,end_date,budget_usd,status
+1,Education Initiative Fund,Technology,8,500,2025-03-15,2026-08-11,355807.38,On Hold
+2,Agriculture Initiative Million,Economic Development,220,511,2024-05-04,2025-10-31,31798.8,On Hold
+3,Agriculture Initiative Force,Health,39,664,2018-10-29,2019-06-19,409820.73,On Hold
+4,Environment Initiative Long,Agriculture,19,81,2023-05-30,2024-11-09,298896.98,Completed
+5,Technology Initiative Poor,Agriculture,220,90,2019-12-20,2021-07-02,70139.97,Completed
+6,Technology Initiative End,Technology,10,498,2022-04-18,2024-03-20,386493.91,Active
+7,Technology Initiative Blood,Health,211,751,2023-04-26,2024-01-24,486990.17,On Hold
+8,Agriculture Initiative Form,Community Development,191,229,2019-10-13,2020-05-01,365966.87,On Hold
+9,Technology Initiative Now,Education,158,731,2023-03-09,2024-05-22,437870.66,Active
+10,Community Development Initiative Wait,Environment,220,775,2024-04-29,2025-10-02,160459.19,Cancelled
+11,Environment Initiative Challenge,Environment,205,237,2022-10-19,2023-08-19,90970.43,Completed
+12,Environment Initiative Force,Health,5,441,2023-01-06,2024-04-14,64560.68,Cancelled
+13,Technology Initiative Student,Technology,20,688,2019-06-05,2020-04-17,336459.34,On Hold
+14,Health Initiative Pull,Agriculture,34,10,2020-06-15,2022-02-27,437630.4,Active
+15,Environment Initiative Not,Education,81,43,2019-09-04,2021-06-14,148135.08,Active
+16,Economic Development Initiative Feeling,Economic Development,169,395,2024-12-05,2026-04-20,252982.55,On Hold
+17,Economic Development Initiative Through,Environment,118,80,2025-03-20,2026-11-20,156505.61,Completed
+18,Education Initiative Article,Economic Development,11,764,2022-06-14,2024-02-16,383903.63,Active
+19,Education Initiative Including,Education,235,292,2017-04-23,2018-02-08,383818.8,Cancelled
+20,Technology Initiative Glass,Education,188,222,2019-06-19,2020-03-23,301948.38,Cancelled
+21,Economic Development Initiative Field,Economic Development,143,101,2023-09-26,2025-08-31,271283.76,Completed
+22,Agriculture Initiative Near,Technology,250,401,2022-10-05,2023-05-12,329939.6,Cancelled
+23,Economic Development Initiative Forward,Economic Development,30,418,2020-01-28,2021-03-31,483608.27,Cancelled
+24,Community Development Initiative Hold,Agriculture,23,541,2022-05-31,2024-05-28,409563.61,On Hold
+25,Economic Development Initiative Here,Education,90,643,2024-11-12,2026-07-15,22416.36,Cancelled
+26,Environment Initiative Door,Technology,143,550,2024-05-31,2025-11-04,380538.39,Cancelled
+27,Health Initiative Sell,Economic Development,9,13,2025-02-08,2026-12-10,242187.87,Completed
+28,Health Initiative Page,Technology,1,742,2019-06-08,2021-04-17,320967.68,Active
+29,Environment Initiative Identify,Health,162,198,2017-12-12,2019-04-03,231760.19,On Hold
+30,Agriculture Initiative Down,Education,120,529,2024-01-13,2025-09-14,115521.68,Active
+31,Health Initiative Collection,Education,197,410,2024-08-31,2026-08-27,303811.92,On Hold
+32,Community Development Initiative Old,Agriculture,89,291,2021-07-11,2022-04-22,305744.61,Completed
+33,Environment Initiative Series,Education,67,397,2025-01-19,2026-09-12,242998.96,Active
+34,Environment Initiative Service,Economic Development,132,741,2019-06-26,2021-03-12,211838.88,On Hold
+35,Technology Initiative Score,Economic Development,87,782,2025-01-29,2025-10-06,248254.61,Active
+36,Environment Initiative Decide,Agriculture,91,442,2017-06-17,2018-03-10,27489.74,On Hold
+37,Health Initiative Which,Agriculture,64,769,2017-10-31,2019-06-14,49255.39,Active
+38,Health Initiative Other,Economic Development,239,151,2021-09-28,2023-06-19,13047.47,Active
+39,Agriculture Initiative Account,Economic Development,214,355,2018-05-18,2019-03-31,217118.51,Completed
+40,Technology Initiative Itself,Environment,181,489,2016-12-06,2018-02-04,243644.93,Completed
+41,Community Development Initiative Per,Health,26,388,2018-07-09,2019-01-23,250088.89,Cancelled
+42,Economic Development Initiative During,Technology,42,426,2022-01-06,2022-10-23,58326.94,On Hold
+43,Community Development Initiative Above,Health,4,106,2020-10-25,2022-08-28,76070.77,Active
+44,Agriculture Initiative Forget,Technology,75,346,2020-07-18,2021-06-04,164018.7,Active
+45,Agriculture Initiative Pressure,Economic Development,9,520,2017-09-10,2019-02-22,496796.29,Active
+46,Economic Development Initiative Record,Technology,127,412,2023-03-26,2024-04-22,317393.21,Completed
+47,Economic Development Initiative Fill,Environment,35,318,2016-09-03,2018-08-16,191865.73,Cancelled
+48,Education Initiative How,Health,205,791,2021-10-30,2022-12-03,144638.73,Completed
+49,Education Initiative So,Education,149,82,2023-06-15,2024-02-10,149069.6,On Hold
+50,Economic Development Initiative Media,Agriculture,159,232,2019-11-07,2020-10-13,493028.33,Cancelled
+51,Education Initiative Candidate,Environment,146,580,2019-03-20,2020-06-26,481078.08,Cancelled
+52,Agriculture Initiative Budget,Environment,194,397,2021-12-17,2023-05-02,80538.94,Cancelled
+53,Agriculture Initiative Everything,Education,134,621,2017-02-10,2018-02-24,400231.39,Completed
+54,Agriculture Initiative Man,Health,116,797,2022-12-27,2023-11-20,167016.65,Cancelled
+55,Education Initiative Trial,Health,33,256,2018-09-15,2019-05-10,23490.72,Completed
+56,Education Initiative Try,Agriculture,98,762,2023-10-14,2025-01-29,236708.39,Active
+57,Agriculture Initiative Happen,Education,169,378,2017-11-01,2018-11-04,261735.26,Active
+58,Education Initiative Social,Economic Development,218,645,2023-01-03,2024-03-26,87170.88,Active
+59,Education Initiative Buy,Environment,104,442,2024-05-05,2025-10-11,26505.04,Active
+60,Health Initiative Important,Economic Development,33,500,2019-03-19,2020-03-17,265966.18,On Hold
+61,Environment Initiative Play,Community Development,158,35,2022-07-01,2023-10-06,293933.09,Cancelled
+62,Environment Initiative Name,Education,84,144,2023-07-10,2024-07-22,239449.49,On Hold
+63,Agriculture Initiative Short,Agriculture,40,16,2024-09-01,2025-12-13,76650.07,On Hold
+64,Agriculture Initiative Middle,Economic Development,140,403,2017-06-26,2018-05-24,99739.46,Active
+65,Technology Initiative Modern,Environment,61,474,2020-06-14,2021-08-18,43020.66,On Hold
+66,Health Initiative Far,Education,215,113,2018-01-25,2018-09-04,457132.9,Active
+67,Environment Initiative Government,Community Development,98,647,2022-12-14,2023-11-15,295644.41,Active
+68,Technology Initiative Situation,Education,155,781,2021-10-03,2022-12-26,128025.51,Cancelled
+69,Environment Initiative Avoid,Education,7,271,2023-05-29,2023-12-01,229829.04,Active
+70,Economic Development Initiative Rock,Technology,191,128,2024-07-26,2026-06-19,416255.54,Completed
+71,Technology Initiative Son,Environment,245,674,2019-07-29,2020-12-12,339888.03,Completed
+72,Community Development Initiative Forget,Environment,105,574,2021-12-23,2023-04-28,278344.72,Completed
+73,Education Initiative Involve,Education,57,269,2016-12-23,2018-04-13,43853.52,Active
+74,Technology Initiative Responsibility,Education,133,107,2017-10-24,2018-11-10,59877.85,Active
+75,Education Initiative Make,Agriculture,236,88,2020-12-30,2022-05-13,350216.75,Completed
+76,Agriculture Initiative Management,Community Development,30,456,2016-11-03,2017-10-09,437567.77,Active
+77,Agriculture Initiative Her,Environment,10,515,2018-08-27,2020-01-06,183773.45,Active
+78,Technology Initiative Miss,Education,207,396,2016-05-10,2017-08-14,229351.5,On Hold
+79,Environment Initiative Game,Economic Development,55,71,2024-01-18,2025-12-13,15781.57,Active
+80,Technology Initiative Relate,Technology,91,782,2019-03-01,2020-05-22,455660.34,On Hold
+81,Environment Initiative Movement,Health,243,783,2017-06-23,2018-11-07,80470.76,On Hold
+82,Economic Development Initiative Worry,Agriculture,203,56,2019-12-18,2021-10-11,230222.0,On Hold
+83,Health Initiative Indicate,Health,220,461,2017-10-03,2018-04-28,136434.7,Cancelled
+84,Economic Development Initiative Interesting,Health,64,624,2018-05-16,2018-11-15,57738.6,Completed
+85,Community Development Initiative Music,Economic Development,74,92,2017-02-23,2018-09-28,96981.95,Cancelled
+86,Education Initiative Material,Education,214,395,2019-03-08,2020-07-07,13376.08,Completed
+87,Technology Initiative Move,Technology,116,360,2019-11-26,2021-08-03,120702.69,Active
+88,Agriculture Initiative Begin,Environment,237,407,2018-01-04,2018-08-18,124510.76,Active
+89,Education Initiative Part,Economic Development,155,416,2023-04-20,2024-01-08,323783.52,On Hold
+90,Technology Initiative Difference,Education,43,330,2020-06-22,2022-02-08,116800.41,Active
+91,Agriculture Initiative Prevent,Education,16,288,2018-08-08,2020-03-07,223202.1,Cancelled
+92,Economic Development Initiative Seven,Agriculture,225,575,2017-11-06,2019-08-23,192392.66,On Hold
+93,Agriculture Initiative Year,Economic Development,18,479,2019-10-09,2021-09-08,10997.94,Completed
+94,Technology Initiative Fish,Education,7,55,2021-07-27,2023-03-14,461069.82,Cancelled
+95,Education Initiative Nor,Technology,19,456,2023-03-09,2024-12-27,245711.86,Completed
+96,Agriculture Initiative Prevent,Economic Development,233,318,2021-10-22,2023-08-25,299781.57,Completed
+97,Environment Initiative Call,Economic Development,27,114,2019-10-08,2020-05-12,466130.79,Active
+98,Education Initiative Magazine,Economic Development,181,778,2018-04-18,2020-01-10,214446.44,Active
+99,Agriculture Initiative Push,Economic Development,7,175,2022-10-01,2023-05-06,461347.25,On Hold
+100,Agriculture Initiative Already,Education,242,366,2023-06-14,2024-09-29,170422.86,Cancelled
+101,Agriculture Initiative Hard,Health,60,239,2022-09-09,2024-06-08,334463.75,On Hold
+102,Community Development Initiative Book,Agriculture,96,166,2020-10-23,2022-06-11,118261.84,Active
+103,Technology Initiative Often,Community Development,7,217,2019-10-03,2021-08-04,364811.9,On Hold
+104,Education Initiative Everything,Technology,15,319,2022-01-10,2023-03-15,310508.46,Completed
+105,Community Development Initiative Probably,Environment,90,220,2019-05-03,2020-11-26,361073.76,Active
+106,Community Development Initiative Win,Technology,117,242,2022-12-18,2024-10-17,56364.0,Cancelled
+107,Economic Development Initiative Choose,Technology,78,782,2024-05-27,2025-07-02,216648.1,Completed
+108,Economic Development Initiative Simple,Environment,184,741,2022-01-19,2023-04-23,80357.07,Completed
+109,Technology Initiative Interview,Economic Development,97,338,2023-08-11,2025-01-29,485025.71,Completed
+110,Technology Initiative Late,Environment,169,398,2017-01-14,2017-12-17,278937.02,Active
+111,Community Development Initiative Available,Education,237,248,2022-12-09,2024-02-29,140372.39,Completed
+112,Technology Initiative Friend,Environment,235,624,2020-03-03,2021-01-04,198305.88,Active
+113,Education Initiative Hundred,Agriculture,94,573,2024-09-05,2026-05-18,322336.53,Cancelled
+114,Technology Initiative Score,Agriculture,119,623,2023-11-17,2025-01-04,67021.22,Active
+115,Health Initiative Tend,Agriculture,7,403,2018-05-15,2019-12-13,350255.55,Completed
+116,Technology Initiative Close,Agriculture,101,310,2016-09-28,2018-04-10,203318.84,Cancelled
+117,Education Initiative Election,Agriculture,170,644,2019-04-09,2019-10-21,324714.65,On Hold
+118,Education Initiative Party,Technology,224,237,2023-08-27,2025-07-04,301653.39,Completed
+119,Community Development Initiative To,Health,122,713,2022-07-10,2023-09-19,420764.35,Active
+120,Environment Initiative Her,Community Development,150,155,2023-06-23,2025-01-27,184247.35,Completed
+121,Agriculture Initiative Song,Education,160,178,2023-02-04,2023-09-28,197767.92,Active
+122,Education Initiative Opportunity,Community Development,21,114,2020-11-19,2021-05-25,335275.06,Active
+123,Technology Initiative Election,Agriculture,109,76,2021-07-20,2022-04-11,210562.69,Cancelled
+124,Economic Development Initiative Such,Agriculture,202,259,2018-04-06,2019-04-18,484131.72,Active
+125,Education Initiative Matter,Technology,60,2,2023-11-10,2024-09-27,28205.0,Completed
+126,Economic Development Initiative Movie,Technology,78,682,2025-02-24,2026-03-08,485899.19,Active
+127,Environment Initiative International,Health,51,691,2021-12-24,2023-08-10,466423.04,Active
+128,Agriculture Initiative Pay,Community Development,68,542,2018-02-05,2018-10-05,66810.12,Cancelled
+129,Community Development Initiative Star,Environment,220,372,2022-05-21,2023-07-25,484866.42,Cancelled
+130,Economic Development Initiative There,Health,33,74,2023-08-04,2024-04-11,387189.54,Completed
+131,Education Initiative Nature,Environment,55,769,2024-02-11,2024-12-30,45397.55,Cancelled
+132,Education Initiative Back,Environment,99,65,2022-05-23,2023-09-09,320847.12,Completed
+133,Health Initiative Able,Health,106,269,2018-06-02,2018-12-28,383465.64,Cancelled
+134,Environment Initiative Window,Economic Development,49,325,2017-06-11,2018-08-09,456965.12,Active
+135,Technology Initiative Site,Environment,112,281,2019-01-12,2020-09-06,12400.51,Completed
+136,Health Initiative Well,Technology,148,683,2020-06-12,2021-05-08,38521.3,Completed
+137,Agriculture Initiative Side,Health,202,547,2020-07-26,2021-07-24,78846.56,Cancelled
+138,Education Initiative American,Health,98,617,2025-02-16,2026-11-23,123997.87,On Hold
+139,Technology Initiative Big,Technology,43,191,2025-01-12,2026-06-04,159945.55,Cancelled
+140,Agriculture Initiative Executive,Agriculture,176,533,2024-12-08,2026-02-24,142818.45,Completed
+141,Technology Initiative Even,Community Development,187,556,2024-08-21,2026-05-02,220328.1,Active
+142,Education Initiative Market,Agriculture,201,228,2024-10-07,2025-08-01,114289.29,Cancelled
+143,Education Initiative Child,Economic Development,182,533,2022-06-25,2023-09-11,17138.29,Cancelled
+144,Education Initiative Low,Technology,86,325,2021-10-06,2023-08-07,352727.85,Active
+145,Community Development Initiative Born,Health,200,494,2020-05-16,2021-12-14,267670.09,Active
+146,Agriculture Initiative Its,Economic Development,26,705,2018-11-01,2019-10-22,80212.31,On Hold
+147,Health Initiative Participant,Environment,44,120,2018-12-10,2020-07-11,209165.87,Cancelled
+148,Community Development Initiative Life,Education,56,150,2020-11-30,2022-07-07,99179.59,On Hold
+149,Economic Development Initiative Action,Technology,2,180,2018-08-28,2019-05-09,313131.94,On Hold
+150,Environment Initiative Option,Technology,59,739,2025-02-28,2027-01-10,230409.6,Completed
+151,Environment Initiative East,Technology,149,324,2023-08-14,2025-02-11,383002.23,Active
+152,Agriculture Initiative What,Community Development,116,276,2019-05-25,2020-04-18,342683.87,Active
+153,Environment Initiative Sing,Community Development,56,401,2025-04-13,2025-12-14,481771.79,Cancelled
+154,Health Initiative Let,Community Development,136,436,2020-10-24,2021-05-04,78466.74,On Hold
+155,Community Development Initiative Customer,Environment,221,442,2018-01-04,2019-08-09,56516.11,Completed
+156,Economic Development Initiative Fear,Agriculture,187,165,2017-02-19,2018-08-26,106616.72,Active
+157,Economic Development Initiative Own,Education,93,408,2017-11-09,2018-05-22,478339.14,Active
+158,Community Development Initiative Build,Health,148,171,2017-07-27,2019-06-27,315997.91,Completed
+159,Environment Initiative Difference,Health,247,176,2024-04-07,2026-03-11,400688.65,Active
+160,Community Development Initiative Technology,Community Development,134,538,2022-04-23,2024-02-15,105347.78,Completed
+161,Health Initiative Hold,Community Development,110,362,2023-06-10,2025-03-02,382435.86,On Hold
+162,Health Initiative Land,Health,1,484,2023-12-28,2025-06-17,71198.49,Active
+163,Technology Initiative On,Education,141,303,2017-05-12,2019-02-10,73174.74,Cancelled
+164,Technology Initiative Ever,Community Development,18,448,2021-11-05,2023-01-18,342529.81,Completed
+165,Economic Development Initiative Image,Community Development,111,781,2019-08-10,2021-06-21,444571.57,Cancelled
+166,Education Initiative Now,Health,160,749,2016-12-20,2018-05-18,366677.83,On Hold
+167,Education Initiative Rule,Community Development,182,20,2024-09-09,2026-02-10,14068.59,On Hold
+168,Education Initiative Place,Economic Development,30,634,2016-08-05,2017-04-24,155269.42,On Hold
+169,Health Initiative Themselves,Environment,225,178,2018-02-21,2018-12-29,107955.66,Active
+170,Health Initiative Three,Environment,3,463,2024-03-15,2024-09-24,71646.99,Completed
+171,Education Initiative Nothing,Health,191,670,2017-03-24,2018-08-15,266828.82,Active
+172,Community Development Initiative Particular,Agriculture,175,146,2023-12-06,2024-12-14,439191.89,On Hold
+173,Environment Initiative Particular,Agriculture,207,210,2019-09-12,2020-09-28,289286.24,Cancelled
+174,Technology Initiative Account,Economic Development,8,621,2021-02-21,2022-01-11,60369.32,Cancelled
+175,Health Initiative Professor,Education,109,437,2018-03-04,2019-10-10,308047.07,Cancelled
+176,Education Initiative Hair,Health,53,2,2018-10-25,2020-02-29,130848.38,On Hold
+177,Education Initiative Physical,Education,100,102,2017-01-27,2018-04-10,220767.58,On Hold
+178,Education Initiative Those,Education,176,560,2021-07-07,2023-04-23,147260.18,On Hold
+179,Education Initiative Value,Agriculture,187,672,2020-07-15,2021-02-08,52016.93,Cancelled
+180,Health Initiative Join,Economic Development,243,423,2025-01-08,2026-05-09,415917.09,Completed
+181,Education Initiative Politics,Economic Development,34,303,2022-10-10,2024-09-17,52466.86,On Hold
+182,Agriculture Initiative Floor,Technology,5,670,2019-08-21,2020-02-23,306870.56,Cancelled
+183,Education Initiative Beat,Community Development,185,792,2019-06-19,2021-02-13,101595.29,On Hold
+184,Community Development Initiative Out,Agriculture,96,164,2018-01-26,2019-01-07,350574.79,Completed
+185,Community Development Initiative Some,Technology,142,50,2020-08-08,2021-06-20,165566.72,Completed
+186,Community Development Initiative Wish,Environment,163,312,2024-03-01,2025-12-07,121330.77,On Hold
+187,Community Development Initiative Pull,Technology,183,314,2017-03-13,2017-11-06,250987.28,Cancelled
+188,Agriculture Initiative Weight,Community Development,223,693,2020-11-27,2021-11-20,103246.26,On Hold
+189,Technology Initiative Talk,Education,23,119,2020-03-18,2020-10-31,457744.55,Completed
+190,Agriculture Initiative Share,Economic Development,176,446,2020-07-17,2021-12-11,418237.87,Cancelled
+191,Community Development Initiative Ago,Economic Development,142,552,2017-09-27,2019-06-25,92698.3,Active
+192,Education Initiative Official,Environment,71,545,2018-11-02,2019-12-13,295842.73,Completed
+193,Agriculture Initiative Professional,Agriculture,206,547,2021-07-15,2022-01-31,445992.55,Active
+194,Education Initiative Always,Technology,140,443,2019-10-25,2021-08-17,38366.45,On Hold
+195,Health Initiative Although,Economic Development,229,226,2020-08-02,2021-06-12,187148.21,On Hold
+196,Community Development Initiative Fast,Community Development,94,611,2024-06-13,2025-10-08,440244.4,Active
+197,Community Development Initiative Listen,Technology,91,578,2020-06-28,2021-11-23,206348.76,On Hold
+198,Environment Initiative To,Economic Development,156,91,2025-03-14,2026-12-09,57952.51,Completed
+199,Economic Development Initiative Herself,Technology,141,229,2020-11-14,2022-08-15,14069.12,On Hold
+200,Environment Initiative Accept,Environment,249,147,2018-11-06,2020-04-08,223865.2,On Hold
+201,Technology Initiative Believe,Technology,175,107,2017-01-26,2018-06-22,48442.76,Cancelled
+202,Economic Development Initiative Including,Economic Development,229,366,2016-06-19,2016-12-16,484150.01,Cancelled
+203,Technology Initiative Husband,Technology,28,357,2023-04-01,2023-11-06,331352.29,Completed
+204,Education Initiative Value,Technology,53,207,2021-03-06,2022-03-06,192563.26,Cancelled
+205,Education Initiative Community,Economic Development,51,279,2021-12-15,2022-08-14,231960.66,Active
+206,Community Development Initiative Offer,Economic Development,163,592,2019-05-30,2020-04-07,444620.47,Completed
+207,Community Development Initiative Address,Environment,72,400,2017-11-15,2018-05-21,451739.41,Active
+208,Community Development Initiative Mention,Technology,147,619,2016-12-07,2018-02-12,378775.17,Cancelled
+209,Environment Initiative Lose,Education,163,337,2021-02-27,2022-01-02,349486.18,Active
+210,Health Initiative Lead,Economic Development,174,498,2018-12-17,2020-01-26,375343.3,On Hold
+211,Economic Development Initiative Well,Agriculture,188,659,2022-01-12,2022-12-07,481801.61,Cancelled
+212,Community Development Initiative Recently,Education,140,792,2018-07-03,2020-06-06,384659.63,Completed
+213,Environment Initiative Certain,Community Development,63,53,2023-03-26,2025-01-12,357323.31,Active
+214,Environment Initiative Allow,Health,128,602,2017-10-28,2018-04-30,145860.74,On Hold
+215,Agriculture Initiative Two,Environment,176,658,2020-07-14,2021-10-20,331426.56,On Hold
+216,Education Initiative Each,Technology,247,45,2021-11-09,2023-02-15,228690.24,Completed
+217,Health Initiative Although,Environment,164,790,2024-07-26,2026-04-03,463494.69,On Hold
+218,Agriculture Initiative Affect,Technology,116,364,2016-10-26,2017-12-17,496789.64,Active
+219,Education Initiative Huge,Technology,188,266,2023-05-19,2024-12-19,128495.4,Completed
+220,Agriculture Initiative Set,Community Development,164,728,2020-11-20,2022-10-29,431798.03,Active
+221,Technology Initiative Sport,Economic Development,181,587,2021-03-07,2022-12-20,483232.59,On Hold
+222,Technology Initiative During,Agriculture,116,520,2022-07-25,2024-06-22,379382.31,Cancelled
+223,Environment Initiative Up,Community Development,205,566,2020-05-23,2021-10-22,40661.46,Cancelled
+224,Agriculture Initiative Crime,Technology,56,314,2023-03-28,2025-03-15,340209.3,Cancelled
+225,Education Initiative Huge,Environment,167,687,2021-11-24,2022-12-24,53441.53,Cancelled
+226,Environment Initiative Office,Education,226,703,2018-09-28,2020-07-15,320226.38,Completed
+227,Community Development Initiative Heavy,Education,165,642,2021-12-25,2023-05-12,6293.95,Completed
+228,Economic Development Initiative Ask,Health,39,196,2022-12-25,2024-07-24,102698.77,On Hold
+229,Education Initiative Professional,Health,232,194,2020-08-07,2021-11-19,207356.11,On Hold
+230,Economic Development Initiative Up,Agriculture,175,785,2016-09-04,2017-07-14,26392.93,Completed
+231,Education Initiative Game,Technology,247,142,2016-10-25,2017-12-08,465199.84,Cancelled
+232,Health Initiative Finish,Health,118,244,2023-02-13,2024-06-29,160213.18,On Hold
+233,Agriculture Initiative Certainly,Economic Development,116,160,2018-05-16,2019-03-13,134928.44,Active
+234,Health Initiative Campaign,Health,63,275,2024-12-24,2025-12-31,243625.35,Active
+235,Environment Initiative Very,Technology,157,338,2020-04-13,2021-08-05,443683.78,Completed
+236,Agriculture Initiative Actually,Agriculture,89,712,2024-10-16,2026-04-14,228484.87,Active
+237,Education Initiative Become,Education,106,117,2021-10-31,2022-09-28,237780.44,Active
+238,Environment Initiative Floor,Agriculture,68,370,2021-08-16,2022-08-30,283982.4,Cancelled
+239,Education Initiative Hold,Technology,41,111,2017-01-20,2018-08-24,277751.1,Completed
+240,Community Development Initiative Collection,Health,123,694,2016-10-27,2017-07-29,367547.43,Active
+241,Agriculture Initiative Produce,Education,113,753,2021-10-25,2023-06-25,205584.47,Completed
+242,Technology Initiative Market,Health,233,555,2024-07-03,2025-06-20,326308.17,Active
+243,Environment Initiative Nature,Agriculture,73,430,2024-04-10,2025-10-15,280941.34,On Hold
+244,Community Development Initiative Forward,Education,240,263,2024-05-24,2025-08-01,188634.3,On Hold
+245,Economic Development Initiative Practice,Agriculture,14,130,2018-06-29,2019-12-09,484915.01,Completed
+246,Environment Initiative Language,Education,128,511,2018-03-04,2019-08-06,246207.84,On Hold
+247,Health Initiative Increase,Community Development,36,500,2022-10-07,2023-11-12,207921.55,Completed
+248,Agriculture Initiative Nation,Community Development,211,421,2016-06-07,2017-02-05,22506.0,Completed
+249,Environment Initiative Same,Economic Development,97,739,2017-02-21,2018-04-27,332041.28,Completed
+250,Economic Development Initiative After,Education,48,703,2021-11-23,2023-07-30,95961.98,Active
+251,Agriculture Initiative Worker,Agriculture,174,24,2019-10-23,2021-07-18,203203.48,Cancelled
+252,Environment Initiative Project,Community Development,241,474,2020-01-24,2020-08-29,16759.71,Active
+253,Community Development Initiative Guess,Education,45,40,2021-10-11,2023-03-23,32629.38,Completed
+254,Agriculture Initiative Easy,Economic Development,9,469,2016-12-10,2018-02-21,221029.71,Cancelled
+255,Education Initiative Paper,Environment,47,746,2024-04-11,2025-03-24,41573.42,Completed
+256,Technology Initiative Great,Community Development,210,237,2019-09-05,2020-11-01,296142.27,Active
+257,Economic Development Initiative Technology,Environment,201,665,2021-10-27,2022-10-03,306653.13,Active
+258,Technology Initiative Energy,Agriculture,58,26,2020-09-17,2021-03-18,242790.05,Completed
+259,Environment Initiative Drug,Education,222,57,2021-12-30,2022-12-22,449369.18,Completed
+260,Economic Development Initiative Space,Health,168,475,2023-12-19,2024-11-11,225013.36,On Hold
+261,Environment Initiative Reveal,Technology,14,324,2022-09-18,2023-09-19,146605.6,On Hold
+262,Community Development Initiative Point,Economic Development,138,456,2019-09-08,2021-07-21,395696.55,Completed
+263,Environment Initiative Positive,Health,39,163,2017-08-24,2018-04-24,348019.92,Active
+264,Health Initiative Include,Environment,250,591,2017-06-26,2018-03-14,278936.11,On Hold
+265,Environment Initiative Brother,Community Development,108,375,2019-03-25,2020-06-11,254118.37,On Hold
+266,Community Development Initiative Form,Agriculture,126,419,2024-09-14,2025-07-31,11504.77,Cancelled
+267,Community Development Initiative Wonder,Environment,227,272,2024-09-21,2025-04-08,222780.55,On Hold
+268,Health Initiative Security,Agriculture,119,223,2020-09-01,2022-02-13,229259.04,Cancelled
+269,Environment Initiative Arm,Environment,141,550,2018-05-18,2019-07-28,134131.26,Cancelled
+270,Technology Initiative Manage,Community Development,179,621,2021-03-25,2021-09-24,139929.38,On Hold
+271,Environment Initiative His,Environment,199,55,2023-05-06,2025-03-06,497033.68,Active
+272,Economic Development Initiative Firm,Economic Development,129,622,2021-10-22,2022-09-12,229611.34,Completed
+273,Health Initiative Bill,Environment,134,63,2022-08-28,2024-01-03,398804.88,Completed
+274,Technology Initiative Much,Health,229,411,2021-05-30,2023-05-04,345073.62,Active
+275,Agriculture Initiative Writer,Education,113,28,2017-04-08,2018-10-26,5648.35,Completed
+276,Education Initiative Again,Community Development,133,435,2019-05-01,2021-03-15,21471.32,Cancelled
+277,Economic Development Initiative Trouble,Economic Development,3,207,2017-12-01,2019-07-11,41764.0,Cancelled
+278,Agriculture Initiative Whatever,Environment,249,592,2021-10-30,2023-05-20,419866.28,Active
+279,Environment Initiative Pressure,Economic Development,135,196,2023-02-26,2024-01-19,449295.66,Completed
+280,Health Initiative Above,Economic Development,176,370,2018-02-18,2019-05-12,122920.08,On Hold
+281,Education Initiative Admit,Technology,103,19,2017-06-08,2018-09-07,46946.71,Active
+282,Economic Development Initiative Get,Education,134,451,2016-07-17,2017-10-07,6367.72,Active
+283,Education Initiative Hour,Community Development,132,799,2022-04-06,2024-01-28,363345.69,Cancelled
+284,Technology Initiative Mrs,Education,94,175,2018-06-26,2020-05-03,24507.75,Cancelled
+285,Community Development Initiative Drive,Education,121,293,2021-05-12,2022-02-21,33816.5,Completed
+286,Environment Initiative Price,Economic Development,149,382,2024-12-24,2026-02-07,367344.7,Cancelled
+287,Community Development Initiative Low,Health,166,301,2025-03-01,2026-12-04,209080.51,Active
+288,Education Initiative Kid,Education,9,585,2021-05-15,2022-10-12,462951.17,Active
+289,Education Initiative Particularly,Technology,28,509,2020-10-19,2022-08-10,279857.34,On Hold
+290,Community Development Initiative Model,Health,4,382,2021-09-06,2022-04-02,28792.29,On Hold
+291,Economic Development Initiative Hot,Environment,42,703,2023-07-06,2024-10-23,382487.6,Completed
+292,Education Initiative Soon,Education,4,691,2024-05-17,2025-05-11,90213.56,Cancelled
+293,Economic Development Initiative Watch,Technology,155,485,2016-11-24,2018-05-31,138170.05,Cancelled
+294,Community Development Initiative State,Health,223,614,2017-09-13,2019-02-16,214019.17,Cancelled
+295,Agriculture Initiative Order,Technology,195,172,2021-10-23,2023-03-03,176541.57,Cancelled
+296,Community Development Initiative Both,Community Development,43,58,2019-05-19,2020-08-05,144233.92,Cancelled
+297,Education Initiative Vote,Agriculture,200,737,2016-11-16,2018-03-02,109538.64,On Hold
+298,Technology Initiative Could,Technology,175,376,2018-07-24,2019-03-01,50993.25,Completed
+299,Environment Initiative Rich,Technology,157,786,2024-01-06,2025-03-05,118735.88,Cancelled
+300,Technology Initiative Market,Technology,102,760,2016-11-28,2018-08-03,288847.2,Cancelled
+301,Economic Development Initiative Beat,Education,191,693,2020-07-23,2022-02-11,450752.25,Active
+302,Agriculture Initiative Standard,Agriculture,128,786,2019-02-19,2021-02-10,48759.78,Cancelled
+303,Economic Development Initiative Of,Community Development,12,372,2023-12-19,2025-04-20,262877.67,Cancelled
+304,Economic Development Initiative Type,Education,71,280,2017-05-03,2019-04-11,296174.23,Active
+305,Education Initiative Budget,Health,245,346,2019-08-11,2021-07-18,254141.3,Completed
+306,Community Development Initiative All,Education,173,365,2021-12-17,2023-04-01,224883.32,On Hold
+307,Education Initiative Magazine,Economic Development,159,592,2019-08-11,2021-01-10,281131.33,Completed
+308,Agriculture Initiative Attack,Agriculture,196,250,2018-03-20,2019-03-22,162082.28,Cancelled
+309,Education Initiative Support,Education,24,709,2022-05-22,2023-03-09,481584.98,On Hold
+310,Economic Development Initiative Offer,Agriculture,106,694,2017-08-13,2018-04-22,215023.99,On Hold
+311,Technology Initiative Paper,Health,20,249,2020-07-16,2021-08-27,181698.1,Cancelled
+312,Economic Development Initiative Clearly,Community Development,54,54,2019-09-27,2020-07-23,410273.46,Cancelled
+313,Community Development Initiative Maintain,Agriculture,178,545,2019-10-31,2020-11-17,9115.49,Active
+314,Health Initiative Risk,Community Development,220,429,2021-10-16,2022-09-20,136025.13,On Hold
+315,Community Development Initiative Again,Health,3,343,2017-08-23,2019-07-11,426523.29,On Hold
+316,Technology Initiative Country,Economic Development,133,496,2020-11-25,2021-11-07,461087.31,Active
+317,Education Initiative End,Technology,195,289,2019-12-03,2020-10-22,237887.78,On Hold
+318,Environment Initiative Above,Agriculture,99,6,2022-09-17,2023-12-27,150870.27,Completed
+319,Education Initiative Send,Environment,185,561,2023-11-24,2025-08-31,459831.2,Cancelled
+320,Education Initiative Herself,Agriculture,111,81,2019-03-01,2020-02-28,231715.55,Cancelled
+321,Economic Development Initiative Sea,Education,208,278,2025-02-25,2026-08-03,175347.87,Completed
+322,Environment Initiative Actually,Environment,222,439,2021-10-02,2022-10-02,311738.38,Cancelled
+323,Environment Initiative Heart,Environment,85,301,2024-07-22,2026-07-09,142996.44,On Hold
+324,Technology Initiative Strong,Agriculture,248,71,2023-06-27,2025-03-30,121622.08,Active
+325,Economic Development Initiative My,Health,185,596,2021-11-11,2022-09-05,495606.68,Completed
+326,Education Initiative Message,Community Development,85,617,2019-12-29,2021-08-25,220307.28,Cancelled
+327,Community Development Initiative Town,Education,179,596,2018-04-08,2019-09-10,108353.45,Cancelled
+328,Economic Development Initiative Course,Economic Development,7,114,2017-03-09,2018-05-18,80829.65,On Hold
+329,Agriculture Initiative Field,Technology,76,491,2024-06-27,2026-06-17,304001.2,Cancelled
+330,Environment Initiative Series,Education,236,72,2024-03-23,2025-09-11,490688.25,Cancelled
+331,Health Initiative Low,Community Development,34,719,2023-03-11,2024-10-22,461189.94,Active
+332,Education Initiative Indeed,Community Development,108,344,2021-11-01,2023-08-19,308578.11,Active
+333,Health Initiative Look,Education,97,36,2018-07-08,2019-11-23,70003.24,Completed
+334,Community Development Initiative Art,Agriculture,62,255,2020-02-06,2021-11-07,31164.48,Cancelled
+335,Technology Initiative Democrat,Community Development,184,769,2019-09-16,2020-09-10,454677.68,Active
+336,Environment Initiative Deal,Community Development,167,166,2019-07-15,2021-07-13,145713.06,Cancelled
+337,Environment Initiative Exactly,Health,221,65,2018-11-04,2020-04-27,400901.37,Active
+338,Community Development Initiative Move,Education,54,557,2025-02-11,2025-12-21,350771.61,Cancelled
+339,Economic Development Initiative Weight,Environment,139,777,2024-01-19,2025-01-23,399983.42,Cancelled
+340,Education Initiative Fire,Agriculture,179,306,2019-05-30,2021-01-25,176624.84,On Hold
+341,Environment Initiative Interesting,Environment,60,363,2019-08-13,2021-07-18,219339.16,On Hold
+342,Economic Development Initiative Arm,Education,43,644,2020-01-17,2020-10-04,427984.63,Completed
+343,Health Initiative Not,Education,241,176,2018-10-23,2020-04-01,457860.75,Cancelled
+344,Economic Development Initiative But,Education,234,324,2022-04-14,2023-12-28,417919.65,On Hold
+345,Economic Development Initiative Member,Community Development,156,539,2023-05-14,2024-12-13,381784.02,Completed
+346,Economic Development Initiative Choice,Health,178,546,2024-06-19,2026-06-18,495123.49,Cancelled
+347,Agriculture Initiative Friend,Health,12,249,2019-02-20,2019-09-24,44225.02,Completed
+348,Technology Initiative Provide,Economic Development,139,569,2024-03-25,2025-03-11,434188.62,Cancelled
+349,Technology Initiative Pattern,Community Development,194,172,2022-02-16,2022-11-16,108756.05,Completed
+350,Health Initiative Address,Technology,111,391,2020-06-10,2020-12-24,263862.37,On Hold
+351,Technology Initiative Major,Environment,238,767,2020-02-04,2020-12-09,242862.44,Cancelled
+352,Environment Initiative Church,Economic Development,180,680,2024-08-13,2025-06-28,390009.01,Completed
+353,Health Initiative Effect,Economic Development,119,757,2018-10-11,2020-08-03,192465.93,Active
+354,Health Initiative Yes,Education,130,495,2018-07-06,2019-09-08,227173.73,Completed
+355,Environment Initiative After,Education,245,762,2021-09-18,2022-12-17,8590.31,Completed
+356,Health Initiative Gas,Technology,57,273,2022-12-20,2024-12-18,320674.75,On Hold
+357,Environment Initiative Sing,Health,88,436,2025-02-19,2026-08-30,90874.71,Completed
+358,Environment Initiative Five,Community Development,183,786,2017-10-28,2019-08-02,23092.58,On Hold
+359,Health Initiative Nature,Agriculture,136,366,2022-01-07,2023-06-09,354330.85,Cancelled
+360,Education Initiative Above,Health,199,474,2017-03-25,2018-05-02,114210.05,Completed
+361,Economic Development Initiative Quite,Agriculture,209,459,2017-11-19,2018-11-08,461776.54,Active
+362,Community Development Initiative Dog,Health,202,261,2017-10-10,2019-02-21,25670.62,Completed
+363,Agriculture Initiative Argue,Agriculture,75,421,2021-01-03,2022-06-06,262997.74,Completed
+364,Environment Initiative Democratic,Community Development,10,301,2017-03-29,2018-12-29,56609.28,Cancelled
+365,Economic Development Initiative Medical,Economic Development,219,71,2021-10-20,2023-08-19,183044.13,Cancelled
+366,Environment Initiative Race,Technology,166,472,2023-06-12,2024-09-26,120259.1,Cancelled
+367,Environment Initiative Decide,Economic Development,3,305,2022-05-12,2023-10-25,482135.26,On Hold
+368,Community Development Initiative Poor,Agriculture,192,688,2017-02-08,2019-01-16,218460.99,Completed
+369,Health Initiative Set,Community Development,46,639,2016-05-27,2017-06-23,424829.67,Completed
+370,Economic Development Initiative Understand,Economic Development,85,361,2021-10-22,2023-02-04,269656.23,Cancelled
+371,Education Initiative Himself,Community Development,218,434,2021-12-05,2022-07-02,446127.99,Completed
+372,Agriculture Initiative Task,Economic Development,216,608,2021-06-18,2022-09-09,340357.14,On Hold
+373,Environment Initiative Them,Agriculture,9,500,2024-07-22,2025-06-30,209227.31,On Hold
+374,Education Initiative Great,Education,33,736,2019-02-10,2020-03-07,28363.25,Completed
+375,Education Initiative Service,Community Development,31,248,2024-12-14,2026-11-17,362063.63,Cancelled
+376,Technology Initiative Five,Technology,97,148,2022-09-18,2023-06-18,274429.37,Completed
+377,Environment Initiative Set,Economic Development,160,55,2016-07-28,2018-01-23,163631.9,Active
+378,Economic Development Initiative Up,Community Development,5,120,2019-03-30,2019-11-04,186157.78,Completed
+379,Environment Initiative Control,Agriculture,215,203,2016-06-30,2017-07-26,166408.3,Cancelled
+380,Health Initiative Off,Community Development,168,461,2018-05-03,2018-11-20,248046.07,Cancelled
+381,Agriculture Initiative Away,Environment,94,623,2023-12-11,2024-08-19,218589.23,On Hold
+382,Community Development Initiative Likely,Economic Development,171,303,2019-12-11,2021-09-24,179959.35,Cancelled
+383,Economic Development Initiative Gas,Agriculture,157,584,2018-04-24,2019-10-04,188572.51,On Hold
+384,Agriculture Initiative Identify,Agriculture,230,665,2021-06-11,2022-01-03,123795.29,Cancelled
+385,Economic Development Initiative Parent,Community Development,162,85,2017-04-13,2018-02-24,224339.67,On Hold
+386,Agriculture Initiative Plant,Technology,74,77,2023-12-30,2025-12-05,281779.63,On Hold
+387,Community Development Initiative System,Agriculture,34,757,2024-05-23,2025-05-02,427353.98,On Hold
+388,Technology Initiative Wide,Education,242,465,2022-12-18,2023-11-09,447638.94,Completed
+389,Environment Initiative Contain,Community Development,81,99,2017-02-04,2017-10-18,437464.78,Completed
+390,Agriculture Initiative Course,Technology,233,384,2017-04-04,2018-01-03,248255.89,On Hold
+391,Health Initiative Majority,Education,206,210,2022-11-17,2024-04-07,24978.29,Completed
+392,Community Development Initiative Fine,Environment,196,638,2024-03-06,2025-12-30,441445.41,Cancelled
+393,Education Initiative Recent,Economic Development,188,794,2024-02-05,2025-02-26,275727.98,On Hold
+394,Health Initiative End,Technology,187,372,2019-03-22,2019-11-15,343184.99,Completed
+395,Community Development Initiative Just,Education,202,173,2024-05-01,2025-04-22,370224.21,On Hold
+396,Education Initiative These,Community Development,180,178,2021-01-25,2022-05-12,293461.03,Cancelled
+397,Agriculture Initiative Responsibility,Community Development,214,23,2023-11-27,2025-01-19,290057.89,Active
+398,Technology Initiative Audience,Community Development,23,565,2017-10-25,2018-10-20,451083.23,On Hold
+399,Agriculture Initiative Painting,Environment,147,325,2016-08-18,2017-08-01,293582.32,Active
+400,Agriculture Initiative Season,Technology,123,623,2018-10-01,2019-04-26,456983.59,Active
