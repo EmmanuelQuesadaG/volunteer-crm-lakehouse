@@ -79,5 +79,5 @@ Synthetic data generated with Faker simulating a real CRM system:
 ## 👤 Author
 
 **Emmanuel Quesada Gómez**  
-Data Engineering Student — Universidad Cenfotec  
+Data Engineer 
 [GitHub](https://github.com/EmmanuelQuesadaG) | [LinkedIn](https://www.linkedin.com/in/emmanuel-quesada)
