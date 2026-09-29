@@ -20,6 +20,24 @@ This project implements a **Medallion Architecture** (Bronze → Silver → Gold
 
 ---
 
+## ✅ Pipeline Execution Evidence
+
+Each layer of the Medallion architecture was executed end-to-end on Azure Databricks, processing the full 800,000-record activity dataset with data integrity preserved across all three stages.
+
+**Bronze — Raw ingestion**
+![Bronze execution](images/01_bronze_execution.png)
+All 6 source CSVs loaded and written as Delta Tables successfully.
+
+**Silver — Cleaning & validation**
+![Silver execution](images/02_silver_execution.png)
+Type casting, deduplication, and null filtering applied — `silver_fact_activity: 800,000 records` confirmed.
+
+**Gold — Star schema**
+![Gold execution](images/03_gold_execution.png)
+Dimension tables joined into the final fact table — `gold_fact_activity: 800,000 records`, ready for BI consumption.
+
+---
+
 ## ⚙️ Tech Stack
 
 | Tool | Purpose |
