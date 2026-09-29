@@ -1,6 +1,6 @@
 # 🌍 VIDA CRM Lakehouse
 
-A end-to-end Data Engineering project simulating a CRM system for the **International Volunteer Activity Lakehouse** — built with Databricks, Delta Lake, and Medallion Architecture.
+A end-to-end Data Engineering project simulating a CRM system for an **International Volunteer Activity Lakehouse** — built with Databricks, Delta Lake, and Medallion Architecture.
 
 ---
 
