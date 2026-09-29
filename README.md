@@ -1,4 +1,4 @@
-# 🌍 VIDA CRM Lakehouse
+# 🌍 International Volunteer Activity Lakehouse
 
 A end-to-end Data Engineering project simulating a CRM system for an **International Volunteer Activity Lakehouse** — built with Databricks, Delta Lake, and Medallion Architecture.
 
